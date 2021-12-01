@@ -1,1 +1,2 @@
-# css-ile-site
+# CssOdev1
+Patika Css Ödev1

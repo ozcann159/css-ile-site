@@ -1,0 +1,71 @@
+*, ::before, ::after {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;}
+
+header{
+    font-family: 'Roboto', cursive;
+    
+}
+
+
+
+p{
+    color: blanchedalmond;
+    border-color: black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 300%;
+
+}
+.container {
+    max-height: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header-background {
+    background-attachment: fixed;
+}
+
+
+.header {
+
+    background-image: url(image/cat2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+.header-menu{
+    color: whitesmoke;
+    font-size: medium;
+}
+
+.header-navbar {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: right 100px;
+    padding-top: 60px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin-left: 27px;
+}
+
+a {
+    color:  whitesmoke;
+    font-size: 15;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
